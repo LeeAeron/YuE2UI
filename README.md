@@ -1,7 +1,7 @@
 # 🚀 YuE2UI: Frontier music generation app
 <p align="center">
-![YuE2](YuE2.png)
-![YuE2](YuE2UI.png)
+  <img src="YuE2.png" alt="YuE2" width="400">
+  <img src="YuE2UI.png" alt="YuE2UI" width="400">
 </p>
 [![Release](https://img.shields.io/github/release/LeeAeron/YuE2.svg)](https://github.com/LeeAeron/YuE2UI/releases/latest)
 
