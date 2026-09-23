@@ -57,7 +57,7 @@ YuE2UI server supports GTX16xx/RTX20xx-50xx GPU cards and generation on CPU.
 ## 📺 Credits
 
 * [LeeAeron](https://github.com/LeeAeron) - main code, reworking, enhancements, LoRa implementation, UI/UX
-* [ServeurpersoCom] (https://github.com/ServeurpersoCom) - YuE2 C++ server sources
+* [ServeurpersoCom](https://github.com/ServeurpersoCom) - YuE2 C++ server sources
 
 
 ## 📝 License
