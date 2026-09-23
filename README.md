@@ -50,7 +50,9 @@ YuE2UI server supports GTX16xx/RTX20xx-50xx GPU cards and generation on CPU.
 - autosaving generated files into /outputs folder
 - advanced Log feature
 - server/models folder autodeection after moving server to another directory/folder/disk
-- no FFMPEG neeeded
+- FFMPEG-based audio conversation with advanced quality andd format settings
+- cover mode for cover music
+- ABC-score generation and view for generated tracks and for tracks to cover
 - 6GB VRAM + 16Gb RAM minimal requirements to generate with BF16 model (highest quality)
 
 
